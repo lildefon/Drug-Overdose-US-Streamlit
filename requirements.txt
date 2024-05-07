@@ -1,6 +1,0 @@
-streamlit=1.330.0
-pandas
-seaborn
-matplotlib
-geopandas
-pip
