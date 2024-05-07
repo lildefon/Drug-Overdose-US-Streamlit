@@ -1,4 +1,6 @@
-streamlit==1.330.0
+streamlit==1.33.0
+numpy
+pip
 pandas
 altair
 matplotlib
