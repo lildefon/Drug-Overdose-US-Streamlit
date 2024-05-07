@@ -1,6 +1,6 @@
-streamlit=1.330.0
+streamlit==1.330.0
 pandas
-seaborn
+altair
 matplotlib
-geopandas
-pip
+seaborn
+
